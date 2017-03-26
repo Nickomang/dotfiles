@@ -1,0 +1,3 @@
+# Script Aliases
+alias colors='zsh ./scripts/colors.sh'
+alias 1pkey='zsh ./scripts/1pass.sh'
